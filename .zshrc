@@ -112,7 +112,7 @@ POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git vscode virtualenv pipenv django pep8 extract autopep8 colorize)
+plugins=(git vscode virtualenv pipenv django pep8 extract autopep8 colorize postgres)
 
 source $ZSH/oh-my-zsh.sh
 
