@@ -1,0 +1,53 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.jediEnabled": false,
+    "workbench.colorTheme": "Dracula At Night",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "window.zoomLevel": 0,
+
+    // personalizado
+    "explorer.compactFolders": false,
+    "editor.cursorBlinking": "expand",
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "editor.rulers": [
+        79
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff000050"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.languageServer": "Microsoft",
+    // "editor.renderWhitespace": "boundary",
+}
